@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shrikant2905
 - 👀 I’m interested in the data field
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on similar job profiles
+- 💞️ I’m looking for opportunities in the data domain.
 - 📫 How to reach me 9082428178.
 
 <!---
